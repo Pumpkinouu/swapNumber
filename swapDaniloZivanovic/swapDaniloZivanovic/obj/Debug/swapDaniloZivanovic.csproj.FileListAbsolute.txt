@@ -1,0 +1,8 @@
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\bin\Debug\swapDaniloZivanovic.exe.config
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\bin\Debug\swapDaniloZivanovic.exe
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\bin\Debug\swapDaniloZivanovic.pdb
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\obj\Debug\swapDaniloZivanovic.csproj.AssemblyReference.cache
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\obj\Debug\swapDaniloZivanovic.csproj.SuggestedBindingRedirects.cache
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\obj\Debug\swapDaniloZivanovic.csproj.CoreCompileInputs.cache
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\obj\Debug\swapDaniloZivanovic.exe
+D:\319-ConceptionApplication\Code VS\swapDaniloZivanovic\swapDaniloZivanovic\obj\Debug\swapDaniloZivanovic.pdb
